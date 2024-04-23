@@ -1,0 +1,29 @@
+# CMake generation dependency list for this directory.
+C:/Users/rlebg/CLionProjects/NexCode/CMakeLists.txt
+C:/Users/rlebg/CLionProjects/NexCode/cmake-build-debug-event-trace/CMakeFiles/3.28.1/CMakeCCompiler.cmake
+C:/Users/rlebg/CLionProjects/NexCode/cmake-build-debug-event-trace/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake
+C:/Users/rlebg/CLionProjects/NexCode/cmake-build-debug-event-trace/CMakeFiles/3.28.1/CMakeRCCompiler.cmake
+C:/Users/rlebg/CLionProjects/NexCode/cmake-build-debug-event-trace/CMakeFiles/3.28.1/CMakeSystem.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseImplicitLinkInfo.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/MSVC-C.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/MSVC-CXX.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/FindOpenMP.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/FindPackageMessage.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-MSVC-C.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-MSVC-CXX.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake
+F:/Jetbrains/CLion Nova 2/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake

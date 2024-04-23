@@ -1,0 +1,3 @@
+C:/Users/rlebg/CLionProjects/Pomegranate-Engine/cmake-build-release-visual-studio/CMakeFiles/Pomegranate_Engine.dir
+C:/Users/rlebg/CLionProjects/Pomegranate-Engine/cmake-build-release-visual-studio/CMakeFiles/ALL_BUILD.dir
+C:/Users/rlebg/CLionProjects/Pomegranate-Engine/cmake-build-release-visual-studio/CMakeFiles/ZERO_CHECK.dir
